@@ -1,0 +1,467 @@
+{
+  "date": "2026-10-19",
+  "report": "# Rapport de marché — 19/10/2026\n\nSource des prix : Yahoo Finance via bibliothèque non officielle yfinance. Cours de clôture, potentiellement différés, pas de garantie de disponibilité ou de fiabilité.\n\n## Indices et indicateurs\n- S&P 500: +0.41% (clôture 2026-10-19; valeur 7690.73)\n- Nasdaq 100: +1.17% (clôture 2026-10-19; valeur 29529.3438)\n- Dow Jones: -0.07% (clôture 2026-10-19; valeur 51966.0312)\n- Euro Stoxx 50: -0.96% (clôture 2026-10-19; valeur 6144.8101)\n- CAC 40: -1.11% (clôture 2026-10-19; valeur 7868.0498)\n- DAX: -1.18% (clôture 2026-10-19; valeur 25319.7695)\n- Marchés émergents (ETF EEM): +0.73% (clôture 2026-10-19; valeur 63.31)\n- VIX: -7.90% (clôture 2026-10-19; valeur 18.41)\n- US 10Y (^TNX): +0.75% (clôture 2026-10-19; valeur 5.136)\n- EUR/USD: +0.01% (clôture 2026-10-19; valeur 1.1215)\n- Brent: -0.43% (clôture 2026-10-19; valeur 109.39)\n\n## Actions américaines : classement SUR UNE SÉLECTION DE 20 VALEURS (pas tout le S&P 500)\n### Top 5\n- Amazon: +4.98% (clôture 2026-10-19; valeur 262.45)\n- Palantir: +4.36% (clôture 2026-10-19; valeur 194.15)\n- Tesla: +3.76% (clôture 2026-10-19; valeur 368.06)\n- Intel: +2.43% (clôture 2026-10-19; valeur 92.03)\n- Broadcom: +1.78% (clôture 2026-10-19; valeur 334.59)\n### Flop 5\n- JPMorgan: -1.82% (clôture 2026-10-19; valeur 333.53)\n- Eli Lilly: -1.33% (clôture 2026-10-19; valeur 1240.34)\n- Netflix: -0.96% (clôture 2026-10-19; valeur 69.85)\n- Meta: -0.55% (clôture 2026-10-19; valeur 705.44)\n- Apple: -0.15% (clôture 2026-10-19; valeur 342.94)\n\n## Actions européennes : classement SUR UNE SÉLECTION DE 20 VALEURS (pas tout l’Euro Stoxx 50)\n### Top 5\n- ASML: +1.27% (clôture 2026-10-19; valeur 1496.0)\n- SAP: +0.31% (clôture 2026-10-19; valeur 199.84)\n- Infineon: +0.25% (clôture 2026-10-19; valeur 52.52)\n- Air Liquide: +0.14% (clôture 2026-10-19; valeur 173.4)\n- Hermès: -0.04% (clôture 2026-10-19; valeur 1337.0)\n### Flop 5\n- BNP Paribas: -2.48% (clôture 2026-10-19; valeur 87.33)\n- Airbus: -2.25% (clôture 2026-10-19; valeur 194.34)\n- Banco Santander: -2.18% (clôture 2026-10-19; valeur 11.772)\n- Allianz: -1.84% (clôture 2026-10-19; valeur 425.9)\n- Adyen: -1.78% (clôture 2026-10-19; valeur 930.4)\n\n## Lecture prudente\nLes variations ne prouvent pas à elles seules pourquoi un titre monte ou baisse. Vérifier résultats, communiqués et articles datés avant d’attribuer une cause.\n",
+  "snapshot": {
+    "created": "2026-10-19T22:23:17.558454+02:00",
+    "indices": {
+      "S&P 500": {
+        "price": 7690.73,
+        "pct": 0.41,
+        "date": "2026-10-19",
+        "symbol": "^GSPC"
+      },
+      "Nasdaq 100": {
+        "price": 29529.3438,
+        "pct": 1.17,
+        "date": "2026-10-19",
+        "symbol": "^NDX"
+      },
+      "Dow Jones": {
+        "price": 51966.0312,
+        "pct": -0.07,
+        "date": "2026-10-19",
+        "symbol": "^DJI"
+      },
+      "Euro Stoxx 50": {
+        "price": 6144.8101,
+        "pct": -0.96,
+        "date": "2026-10-19",
+        "symbol": "^STOXX50E"
+      },
+      "CAC 40": {
+        "price": 7868.0498,
+        "pct": -1.11,
+        "date": "2026-10-19",
+        "symbol": "^FCHI"
+      },
+      "DAX": {
+        "price": 25319.7695,
+        "pct": -1.18,
+        "date": "2026-10-19",
+        "symbol": "^GDAXI"
+      },
+      "Marchés émergents (ETF EEM)": {
+        "price": 63.31,
+        "pct": 0.73,
+        "date": "2026-10-19",
+        "symbol": "EEM"
+      },
+      "VIX": {
+        "price": 18.41,
+        "pct": -7.9,
+        "date": "2026-10-19",
+        "symbol": "^VIX"
+      },
+      "US 10Y (^TNX)": {
+        "price": 5.136,
+        "pct": 0.75,
+        "date": "2026-10-19",
+        "symbol": "^TNX"
+      },
+      "EUR/USD": {
+        "price": 1.1215,
+        "pct": 0.01,
+        "date": "2026-10-19",
+        "symbol": "EURUSD=X"
+      },
+      "Brent": {
+        "price": 109.39,
+        "pct": -0.43,
+        "date": "2026-10-19",
+        "symbol": "BZ=F"
+      }
+    },
+    "us": {
+      "Apple": {
+        "price": 342.94,
+        "pct": -0.15,
+        "date": "2026-10-19",
+        "symbol": "AAPL"
+      },
+      "Microsoft": {
+        "price": 533.52,
+        "pct": 0.84,
+        "date": "2026-10-19",
+        "symbol": "MSFT"
+      },
+      "Nvidia": {
+        "price": 217.09,
+        "pct": 1.38,
+        "date": "2026-10-19",
+        "symbol": "NVDA"
+      },
+      "Alphabet": {
+        "price": 344.18,
+        "pct": 1.05,
+        "date": "2026-10-19",
+        "symbol": "GOOGL"
+      },
+      "Amazon": {
+        "price": 262.45,
+        "pct": 4.98,
+        "date": "2026-10-19",
+        "symbol": "AMZN"
+      },
+      "Meta": {
+        "price": 705.44,
+        "pct": -0.55,
+        "date": "2026-10-19",
+        "symbol": "META"
+      },
+      "Tesla": {
+        "price": 368.06,
+        "pct": 3.76,
+        "date": "2026-10-19",
+        "symbol": "TSLA"
+      },
+      "Broadcom": {
+        "price": 334.59,
+        "pct": 1.78,
+        "date": "2026-10-19",
+        "symbol": "AVGO"
+      },
+      "JPMorgan": {
+        "price": 333.53,
+        "pct": -1.82,
+        "date": "2026-10-19",
+        "symbol": "JPM"
+      },
+      "Berkshire Hathaway B": {
+        "price": 532.23,
+        "pct": 0.04,
+        "date": "2026-10-19",
+        "symbol": "BRK-B"
+      },
+      "Eli Lilly": {
+        "price": 1240.34,
+        "pct": -1.33,
+        "date": "2026-10-19",
+        "symbol": "LLY"
+      },
+      "Visa": {
+        "price": 402.92,
+        "pct": 0.08,
+        "date": "2026-10-19",
+        "symbol": "V"
+      },
+      "Walmart": {
+        "price": 118.7,
+        "pct": -0.09,
+        "date": "2026-10-19",
+        "symbol": "WMT"
+      },
+      "Netflix": {
+        "price": 69.85,
+        "pct": -0.96,
+        "date": "2026-10-19",
+        "symbol": "NFLX"
+      },
+      "AMD": {
+        "price": 538.05,
+        "pct": 1.76,
+        "date": "2026-10-19",
+        "symbol": "AMD"
+      },
+      "Intel": {
+        "price": 92.03,
+        "pct": 2.43,
+        "date": "2026-10-19",
+        "symbol": "INTC"
+      },
+      "Palantir": {
+        "price": 194.15,
+        "pct": 4.36,
+        "date": "2026-10-19",
+        "symbol": "PLTR"
+      },
+      "Salesforce": {
+        "price": 242.45,
+        "pct": 0.73,
+        "date": "2026-10-19",
+        "symbol": "CRM"
+      },
+      "Oracle": {
+        "price": 129.59,
+        "pct": 1.06,
+        "date": "2026-10-19",
+        "symbol": "ORCL"
+      },
+      "UnitedHealth": {
+        "price": 406.88,
+        "pct": 1.36,
+        "date": "2026-10-19",
+        "symbol": "UNH"
+      }
+    },
+    "eu": {
+      "ASML": {
+        "price": 1496.0,
+        "pct": 1.27,
+        "date": "2026-10-19",
+        "symbol": "ASML.AS"
+      },
+      "SAP": {
+        "price": 199.84,
+        "pct": 0.31,
+        "date": "2026-10-19",
+        "symbol": "SAP.DE"
+      },
+      "Siemens": {
+        "price": 266.2,
+        "pct": -1.64,
+        "date": "2026-10-19",
+        "symbol": "SIE.DE"
+      },
+      "LVMH": {
+        "price": 390.0,
+        "pct": -1.76,
+        "date": "2026-10-19",
+        "symbol": "MC.PA"
+      },
+      "TotalEnergies": {
+        "price": 80.53,
+        "pct": -0.22,
+        "date": "2026-10-19",
+        "symbol": "TTE.PA"
+      },
+      "Schneider Electric": {
+        "price": 252.6,
+        "pct": -0.28,
+        "date": "2026-10-19",
+        "symbol": "SU.PA"
+      },
+      "Airbus": {
+        "price": 194.34,
+        "pct": -2.25,
+        "date": "2026-10-19",
+        "symbol": "AIR.PA"
+      },
+      "Sanofi": {
+        "price": 71.01,
+        "pct": -1.29,
+        "date": "2026-10-19",
+        "symbol": "SAN.PA"
+      },
+      "Allianz": {
+        "price": 425.9,
+        "pct": -1.84,
+        "date": "2026-10-19",
+        "symbol": "ALV.DE"
+      },
+      "BNP Paribas": {
+        "price": 87.33,
+        "pct": -2.48,
+        "date": "2026-10-19",
+        "symbol": "BNP.PA"
+      },
+      "Air Liquide": {
+        "price": 173.4,
+        "pct": 0.14,
+        "date": "2026-10-19",
+        "symbol": "AI.PA"
+      },
+      "Inditex": {
+        "price": 55.42,
+        "pct": -0.79,
+        "date": "2026-10-19",
+        "symbol": "ITX.MC"
+      },
+      "Adyen": {
+        "price": 930.4,
+        "pct": -1.78,
+        "date": "2026-10-19",
+        "symbol": "ADYEN.AS"
+      },
+      "Infineon": {
+        "price": 52.52,
+        "pct": 0.25,
+        "date": "2026-10-19",
+        "symbol": "IFX.DE"
+      },
+      "Deutsche Telekom": {
+        "price": 25.57,
+        "pct": -1.24,
+        "date": "2026-10-19",
+        "symbol": "DTE.DE"
+      },
+      "Banco Santander": {
+        "price": 11.772,
+        "pct": -2.18,
+        "date": "2026-10-19",
+        "symbol": "SAN.MC"
+      },
+      "EssilorLuxottica": {
+        "price": 152.05,
+        "pct": -1.52,
+        "date": "2026-10-19",
+        "symbol": "EL.PA"
+      },
+      "Hermès": {
+        "price": 1337.0,
+        "pct": -0.04,
+        "date": "2026-10-19",
+        "symbol": "RMS.PA"
+      },
+      "AXA": {
+        "price": 42.42,
+        "pct": -1.28,
+        "date": "2026-10-19",
+        "symbol": "CS.PA"
+      },
+      "BASF": {
+        "price": 52.67,
+        "pct": -1.05,
+        "date": "2026-10-19",
+        "symbol": "BAS.DE"
+      }
+    },
+    "us_up": [
+      {
+        "name": "Amazon",
+        "price": 262.45,
+        "pct": 4.98,
+        "date": "2026-10-19",
+        "symbol": "AMZN"
+      },
+      {
+        "name": "Palantir",
+        "price": 194.15,
+        "pct": 4.36,
+        "date": "2026-10-19",
+        "symbol": "PLTR"
+      },
+      {
+        "name": "Tesla",
+        "price": 368.06,
+        "pct": 3.76,
+        "date": "2026-10-19",
+        "symbol": "TSLA"
+      },
+      {
+        "name": "Intel",
+        "price": 92.03,
+        "pct": 2.43,
+        "date": "2026-10-19",
+        "symbol": "INTC"
+      },
+      {
+        "name": "Broadcom",
+        "price": 334.59,
+        "pct": 1.78,
+        "date": "2026-10-19",
+        "symbol": "AVGO"
+      }
+    ],
+    "us_down": [
+      {
+        "name": "JPMorgan",
+        "price": 333.53,
+        "pct": -1.82,
+        "date": "2026-10-19",
+        "symbol": "JPM"
+      },
+      {
+        "name": "Eli Lilly",
+        "price": 1240.34,
+        "pct": -1.33,
+        "date": "2026-10-19",
+        "symbol": "LLY"
+      },
+      {
+        "name": "Netflix",
+        "price": 69.85,
+        "pct": -0.96,
+        "date": "2026-10-19",
+        "symbol": "NFLX"
+      },
+      {
+        "name": "Meta",
+        "price": 705.44,
+        "pct": -0.55,
+        "date": "2026-10-19",
+        "symbol": "META"
+      },
+      {
+        "name": "Apple",
+        "price": 342.94,
+        "pct": -0.15,
+        "date": "2026-10-19",
+        "symbol": "AAPL"
+      }
+    ],
+    "eu_up": [
+      {
+        "name": "ASML",
+        "price": 1496.0,
+        "pct": 1.27,
+        "date": "2026-10-19",
+        "symbol": "ASML.AS"
+      },
+      {
+        "name": "SAP",
+        "price": 199.84,
+        "pct": 0.31,
+        "date": "2026-10-19",
+        "symbol": "SAP.DE"
+      },
+      {
+        "name": "Infineon",
+        "price": 52.52,
+        "pct": 0.25,
+        "date": "2026-10-19",
+        "symbol": "IFX.DE"
+      },
+      {
+        "name": "Air Liquide",
+        "price": 173.4,
+        "pct": 0.14,
+        "date": "2026-10-19",
+        "symbol": "AI.PA"
+      },
+      {
+        "name": "Hermès",
+        "price": 1337.0,
+        "pct": -0.04,
+        "date": "2026-10-19",
+        "symbol": "RMS.PA"
+      }
+    ],
+    "eu_down": [
+      {
+        "name": "BNP Paribas",
+        "price": 87.33,
+        "pct": -2.48,
+        "date": "2026-10-19",
+        "symbol": "BNP.PA"
+      },
+      {
+        "name": "Airbus",
+        "price": 194.34,
+        "pct": -2.25,
+        "date": "2026-10-19",
+        "symbol": "AIR.PA"
+      },
+      {
+        "name": "Banco Santander",
+        "price": 11.772,
+        "pct": -2.18,
+        "date": "2026-10-19",
+        "symbol": "SAN.MC"
+      },
+      {
+        "name": "Allianz",
+        "price": 425.9,
+        "pct": -1.84,
+        "date": "2026-10-19",
+        "symbol": "ALV.DE"
+      },
+      {
+        "name": "Adyen",
+        "price": 930.4,
+        "pct": -1.78,
+        "date": "2026-10-19",
+        "symbol": "ADYEN.AS"
+      }
+    ]
+  }
+}
