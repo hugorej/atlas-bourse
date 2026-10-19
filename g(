@@ -1,0 +1,39 @@
+
+name: ATLAS - Rapports automatiques
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 22 * * 1-5'
+      timezone: 'Europe/Paris'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Recuperer les fichiers
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dependances
+        run: pip install -r requirements.txt
+
+      - name: Generer le rapport
+        run: python update_reports.py
+
+      - name: Enregistrer les rapports
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "Mise a jour ATLAS"
+            git push
+          fi
