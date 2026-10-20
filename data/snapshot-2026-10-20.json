@@ -1,23 +1,23 @@
 {
-  "created": "2026-10-20T21:30:29.224896+02:00",
+  "created": "2026-10-20T22:40:29.867220+02:00",
   "indices": {
     "S&P 500": {
-      "price": 7705.52,
-      "pct": 0.19,
+      "price": 7712.5698,
+      "pct": 0.28,
       "date": "2026-10-20",
       "symbol": "^GSPC",
       "name": "S&P 500"
     },
     "Nasdaq 100": {
-      "price": 29475.5859,
-      "pct": -0.18,
+      "price": 29490.2832,
+      "pct": -0.13,
       "date": "2026-10-20",
       "symbol": "^NDX",
       "name": "Nasdaq 100"
     },
     "Dow Jones": {
-      "price": 52436.5117,
-      "pct": 0.91,
+      "price": 52495.8789,
+      "pct": 1.02,
       "date": "2026-10-20",
       "symbol": "^DJI",
       "name": "Dow Jones"
@@ -44,15 +44,15 @@
       "name": "DAX"
     },
     "Marchés émergents (ETF EEM)": {
-      "price": 63.29,
-      "pct": -0.03,
+      "price": 63.32,
+      "pct": 0.02,
       "date": "2026-10-20",
       "symbol": "EEM",
       "name": "Marchés émergents (ETF EEM)"
     },
     "VIX": {
-      "price": 17.48,
-      "pct": -5.21,
+      "price": 17.31,
+      "pct": -6.13,
       "date": "2026-10-20",
       "symbol": "^VIX",
       "name": "VIX"
@@ -72,8 +72,8 @@
       "name": "EUR/USD"
     },
     "Pétrole Brent": {
-      "price": 109.18,
-      "pct": -0.34,
+      "price": 108.89,
+      "pct": -0.6,
       "date": "2026-10-20",
       "symbol": "BZ=F",
       "name": "Pétrole Brent"
@@ -81,8 +81,8 @@
   },
   "us": {
     "Apple": {
-      "price": 339.37,
-      "pct": -1.04,
+      "price": 339.5,
+      "pct": -1.0,
       "date": "2026-10-20",
       "symbol": "AAPL",
       "name": "Apple",
@@ -90,8 +90,8 @@
       "region": "US"
     },
     "Microsoft": {
-      "price": 530.375,
-      "pct": -0.59,
+      "price": 531.87,
+      "pct": -0.31,
       "date": "2026-10-20",
       "symbol": "MSFT",
       "name": "Microsoft",
@@ -99,8 +99,8 @@
       "region": "US"
     },
     "Nvidia": {
-      "price": 216.18,
-      "pct": -0.42,
+      "price": 216.47,
+      "pct": -0.29,
       "date": "2026-10-20",
       "symbol": "NVDA",
       "name": "Nvidia",
@@ -108,8 +108,8 @@
       "region": "US"
     },
     "Alphabet": {
-      "price": 338.7,
-      "pct": -1.59,
+      "price": 340.275,
+      "pct": -1.13,
       "date": "2026-10-20",
       "symbol": "GOOGL",
       "name": "Alphabet",
@@ -117,8 +117,8 @@
       "region": "US"
     },
     "Amazon": {
-      "price": 262.365,
-      "pct": -0.03,
+      "price": 262.63,
+      "pct": 0.07,
       "date": "2026-10-20",
       "symbol": "AMZN",
       "name": "Amazon",
@@ -126,8 +126,8 @@
       "region": "US"
     },
     "Meta": {
-      "price": 688.865,
-      "pct": -2.35,
+      "price": 694.25,
+      "pct": -1.59,
       "date": "2026-10-20",
       "symbol": "META",
       "name": "Meta",
@@ -135,8 +135,8 @@
       "region": "US"
     },
     "Tesla": {
-      "price": 375.07,
-      "pct": 1.9,
+      "price": 373.71,
+      "pct": 1.54,
       "date": "2026-10-20",
       "symbol": "TSLA",
       "name": "Tesla",
@@ -144,8 +144,8 @@
       "region": "US"
     },
     "Broadcom": {
-      "price": 334.61,
-      "pct": 0.01,
+      "price": 334.37,
+      "pct": -0.07,
       "date": "2026-10-20",
       "symbol": "AVGO",
       "name": "Broadcom",
@@ -153,8 +153,8 @@
       "region": "US"
     },
     "AMD": {
-      "price": 537.608,
-      "pct": -0.08,
+      "price": 534.74,
+      "pct": -0.62,
       "date": "2026-10-20",
       "symbol": "AMD",
       "name": "AMD",
@@ -162,8 +162,8 @@
       "region": "US"
     },
     "Intel": {
-      "price": 92.0858,
-      "pct": 0.06,
+      "price": 91.69,
+      "pct": -0.37,
       "date": "2026-10-20",
       "symbol": "INTC",
       "name": "Intel",
@@ -171,8 +171,8 @@
       "region": "US"
     },
     "Netflix": {
-      "price": 68.5,
-      "pct": -1.93,
+      "price": 68.69,
+      "pct": -1.66,
       "date": "2026-10-20",
       "symbol": "NFLX",
       "name": "Netflix",
@@ -180,8 +180,8 @@
       "region": "US"
     },
     "Salesforce": {
-      "price": 242.245,
-      "pct": -0.08,
+      "price": 242.43,
+      "pct": -0.01,
       "date": "2026-10-20",
       "symbol": "CRM",
       "name": "Salesforce",
@@ -189,8 +189,8 @@
       "region": "US"
     },
     "Oracle": {
-      "price": 131.082,
-      "pct": 1.15,
+      "price": 131.14,
+      "pct": 1.2,
       "date": "2026-10-20",
       "symbol": "ORCL",
       "name": "Oracle",
@@ -198,8 +198,8 @@
       "region": "US"
     },
     "Palantir": {
-      "price": 193.3,
-      "pct": -0.44,
+      "price": 192.6,
+      "pct": -0.8,
       "date": "2026-10-20",
       "symbol": "PLTR",
       "name": "Palantir",
@@ -207,8 +207,8 @@
       "region": "US"
     },
     "JPMorgan": {
-      "price": 335.5,
-      "pct": 0.59,
+      "price": 335.26,
+      "pct": 0.52,
       "date": "2026-10-20",
       "symbol": "JPM",
       "name": "JPMorgan",
@@ -216,8 +216,8 @@
       "region": "US"
     },
     "Berkshire Hathaway": {
-      "price": 538.93,
-      "pct": 1.26,
+      "price": 539.82,
+      "pct": 1.43,
       "date": "2026-10-20",
       "symbol": "BRK-B",
       "name": "Berkshire Hathaway",
@@ -225,8 +225,8 @@
       "region": "US"
     },
     "Visa": {
-      "price": 407.0426,
-      "pct": 1.02,
+      "price": 406.57,
+      "pct": 0.91,
       "date": "2026-10-20",
       "symbol": "V",
       "name": "Visa",
@@ -234,8 +234,8 @@
       "region": "US"
     },
     "Walmart": {
-      "price": 117.885,
-      "pct": -0.69,
+      "price": 117.85,
+      "pct": -0.72,
       "date": "2026-10-20",
       "symbol": "WMT",
       "name": "Walmart",
@@ -243,8 +243,8 @@
       "region": "US"
     },
     "Eli Lilly": {
-      "price": 1285.3005,
-      "pct": 3.62,
+      "price": 1283.66,
+      "pct": 3.49,
       "date": "2026-10-20",
       "symbol": "LLY",
       "name": "Eli Lilly",
@@ -252,8 +252,8 @@
       "region": "US"
     },
     "UnitedHealth": {
-      "price": 419.41,
-      "pct": 3.08,
+      "price": 419.26,
+      "pct": 3.04,
       "date": "2026-10-20",
       "symbol": "UNH",
       "name": "UnitedHealth",
@@ -445,8 +445,8 @@
   },
   "us_up": [
     {
-      "price": 1285.3005,
-      "pct": 3.62,
+      "price": 1283.66,
+      "pct": 3.49,
       "date": "2026-10-20",
       "symbol": "LLY",
       "name": "Eli Lilly",
@@ -454,8 +454,8 @@
       "region": "US"
     },
     {
-      "price": 419.41,
-      "pct": 3.08,
+      "price": 419.26,
+      "pct": 3.04,
       "date": "2026-10-20",
       "symbol": "UNH",
       "name": "UnitedHealth",
@@ -463,8 +463,8 @@
       "region": "US"
     },
     {
-      "price": 375.07,
-      "pct": 1.9,
+      "price": 373.71,
+      "pct": 1.54,
       "date": "2026-10-20",
       "symbol": "TSLA",
       "name": "Tesla",
@@ -472,8 +472,8 @@
       "region": "US"
     },
     {
-      "price": 538.93,
-      "pct": 1.26,
+      "price": 539.82,
+      "pct": 1.43,
       "date": "2026-10-20",
       "symbol": "BRK-B",
       "name": "Berkshire Hathaway",
@@ -481,8 +481,8 @@
       "region": "US"
     },
     {
-      "price": 131.082,
-      "pct": 1.15,
+      "price": 131.14,
+      "pct": 1.2,
       "date": "2026-10-20",
       "symbol": "ORCL",
       "name": "Oracle",
@@ -492,17 +492,8 @@
   ],
   "us_down": [
     {
-      "price": 688.865,
-      "pct": -2.35,
-      "date": "2026-10-20",
-      "symbol": "META",
-      "name": "Meta",
-      "sector": "Technologie",
-      "region": "US"
-    },
-    {
-      "price": 68.5,
-      "pct": -1.93,
+      "price": 68.69,
+      "pct": -1.66,
       "date": "2026-10-20",
       "symbol": "NFLX",
       "name": "Netflix",
@@ -510,8 +501,17 @@
       "region": "US"
     },
     {
-      "price": 338.7,
+      "price": 694.25,
       "pct": -1.59,
+      "date": "2026-10-20",
+      "symbol": "META",
+      "name": "Meta",
+      "sector": "Technologie",
+      "region": "US"
+    },
+    {
+      "price": 340.275,
+      "pct": -1.13,
       "date": "2026-10-20",
       "symbol": "GOOGL",
       "name": "Alphabet",
@@ -519,8 +519,8 @@
       "region": "US"
     },
     {
-      "price": 339.37,
-      "pct": -1.04,
+      "price": 339.5,
+      "pct": -1.0,
       "date": "2026-10-20",
       "symbol": "AAPL",
       "name": "Apple",
@@ -528,12 +528,12 @@
       "region": "US"
     },
     {
-      "price": 117.885,
-      "pct": -0.69,
+      "price": 192.6,
+      "pct": -0.8,
       "date": "2026-10-20",
-      "symbol": "WMT",
-      "name": "Walmart",
-      "sector": "Consommation",
+      "symbol": "PLTR",
+      "name": "Palantir",
+      "sector": "Technologie",
       "region": "US"
     }
   ],
@@ -633,16 +633,16 @@
   ],
   "news": [
     {
+      "title": "CAC 40 : La Bourse de Paris finit dans le rouge, le climat social reste tendu en France - Zonebourse",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMU1TbzhHZXZ4YkRNa1dzeWRfOUdFSVpTczdIQ1FTSnV6WVBWdlVNWkJ4ZlpqLXRvdWFWWWxob2tHTTVMWGVTOGJHWWJuVG9Ybjk3VlRKTUlZOFZkend0dUdUS1hZSXBoc0tUZktwR3Y1bWJwVlBqQ1hmRy1Fd1U5R1VaRHVXeWR4aWQtOXFHYlVIVWxraWFpZ0ROSWFiYkpYXzk4ZzBMV0pFM1Bza1ZjUnlZS1JMSjB5U0pGWEtDZU9rc3ZiaXhQOXlqUVI2LTRVTnN6SjdQeDN1NnZFcFE?oc=5",
+      "source": "Zonebourse",
+      "published": "20/10/2026 18:14"
+    },
+    {
       "title": "CAC 40: La Bourse de Paris finit dans le rouge, le climat social reste tendu en France - Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNTc4ckd3QVJTMGx0QnNyUzNzbjZfUzNlZHBtdWVsaVY5TEw5MWR4b20wYldBOHQyUnZKVE1WREpBMGVhQlNRZ3d0WDg3ZzFnYzBTdWNscGhVaXo5Nl9WQUp5RG9YWFE1VGVlMUwzaXlSV3FaQ1RSNFBhMkZ0Q091dl9OYzVDTlpLUVAtb3JMdS1HT2JtVXZpV1Q5TXlzVzRLMWZ5QzJRRV93NmZHb2xyU0ppTHNyajNkMjQ1QXlfcXVXYVpGQmlUb2tIWVItX0RRUFNLOEFCeXoydWtCb0tkRW9MaTkxY0RtTU0tb3Jn?oc=5",
       "source": "Les Echos",
       "published": "20/10/2026 18:11"
-    },
-    {
-      "title": "Bourse: Wall Street ouvre en baisse, entre IA et résultats d’entreprises - Les Affaires",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYzBFd1VXbGRCSmFlYWtUbGRZMTRkZ1l2bGZpX0FPbXg2YVRlUVUxNWQyZFlRSEpmdDVGYzlTbHFSQTZmS1QyR01NNGo2QUJpNWxscmVoWVJwbTByWFFZRkxfTTNtdG5KTzZnbkg2cTdxVnRwR2s1alg5U3N6UEgzcGVCMFdhTTNPcUpZLWxJMHM2MDQ3em5MX2d3?oc=5",
-      "source": "Les Affaires",
-      "published": "20/10/2026 17:54"
     },
     {
       "title": "CAC 40 : la Bourse pénalisée par les tensions sur la dette française - Capital.fr",
@@ -651,16 +651,10 @@
       "published": "20/10/2026 10:51"
     },
     {
-      "title": "CAC 40 : La Bourse de Paris finit dans le rouge, le climat social reste tendu en France - Zonebourse Suisse",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOXpobVR4NlhlQ1g1Y29BSGJVdnBMX0JRTlNXQ1NuWFpFdWpvNGRuQUp5UzItS3k5N3hiSi1pODJYalc2N1BjdmU3b0lxZWRUalAxVlp4UGFKaVRUN2VUUjZROWgycFNiN01jNUF5NmVJQWNhLVduZjZRbVJwMGJNRW1hZkFEdHZYeDF0dU9rM1NmN2V5Wk1aYXhxcUw1Snl2S2lLU2QzMERNVWJrV2NzSjV2WE4yeTBVc0l1YzZnZFFHaTdOa2JqWU5sOWRKVEJhSEJRaHduZlBIZEdq?oc=5",
-      "source": "Zonebourse Suisse",
-      "published": "20/10/2026 18:14"
-    },
-    {
-      "title": "Wall Street vue dans le désordre, l'Europe dans le rouge, les taux français et l'IA inquiètent - Boursorama",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNYzY1dkxVZmlWTWpMclgwVXZkemVsZVJEODBjTlpQWTQwLVZ6MXQtRzMzSmlpZWEtSTQyTDdtbUhNSDFFQzJldERoeGphT21aeEc3Q2xQRzZmS3NZVDN1em9lbHRZRUtJcGpzWEdEUVlyQkZSOE9MQ282M3J5WVJ6MEQ5bFlCRkdrUV9HSFU0eUZBMl9hRGN5cjEwMUF1c0x0bkdtUkV1NkZQSkZWWGF0RGNEeGQwZW5GWmZ0Y3dfQlNQallMWXFtN2daUVBlXy1sNjRWMTlqRGZ6VkNPOTlRbXdnQ3BmNkViYXBfQ0pmbDFFSnNxZGZITWpaX2xSN1R0aTVsYtIBhAJBVV95cUxNYzY1dkxVZmlWTWpMclgwVXZkemVsZVJEODBjTlpQWTQwLVZ6MXQtRzMzSmlpZWEtSTQyTDdtbUhNSDFFQzJldERoeGphT21aeEc3Q2xQRzZmS3NZVDN1em9lbHRZRUtJcGpzWEdEUVlyQkZSOE9MQ282M3J5WVJ6MEQ5bFlCRkdrUV9HSFU0eUZBMl9hRGN5cjEwMUF1c0x0bkdtUkV1NkZQSkZWWGF0RGNEeGQwZW5GWmZ0Y3dfQlNQallMWXFtN2daUVBlXy1sNjRWMTlqRGZ6VkNPOTlRbXdnQ3BmNkViYXBfQ0pmbDFFSnNxZGZITWpaX2xSN1R0aTVsYg?oc=5",
-      "source": "Boursorama",
-      "published": "20/10/2026 13:19"
+      "title": "Bourse: Wall Street ouvre en baisse, entre IA et résultats d’entreprises - Les Affaires",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYzBFd1VXbGRCSmFlYWtUbGRZMTRkZ1l2bGZpX0FPbXg2YVRlUVUxNWQyZFlRSEpmdDVGYzlTbHFSQTZmS1QyR01NNGo2QUJpNWxscmVoWVJwbTByWFFZRkxfTTNtdG5KTzZnbkg2cTdxVnRwR2s1alg5U3N6UEgzcGVCMFdhTTNPcUpZLWxJMHM2MDQ3em5MX2d3?oc=5",
+      "source": "Les Affaires",
+      "published": "20/10/2026 17:54"
     },
     {
       "title": "CAC 40 & DAX : Les seuils critiques pour éviter le krach de novembre - Bourse Direct",
@@ -673,6 +667,12 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWHowano3SUZsbGZtZmJ0cndyZk9WSTlTUzdOWGd6bGlvVnZuQkxzZ2FNMzNUTlFBb3ZHVDc3bXZTVGVxTTdoejRCQ0RqY2hYTUd4SGR5SUN2UlFxYzhtTC1jVlFCZlNIb3lYYWpVZjI0T2hVUTlCQ1BCTmNRQ2JNS1JWaDlYTjAzTW0yUnR3SGdENDBaQkVFc0VPcGJYOS1jLVlFV1hxcjhNb1hwbmE0aldGckRxRmxXR3c?oc=5",
       "source": "ABC Bourse",
       "published": "20/10/2026 18:11"
+    },
+    {
+      "title": "Wall Street vue dans le désordre, l'Europe dans le rouge, les taux français et l'IA inquiètent - Boursorama",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNYzY1dkxVZmlWTWpMclgwVXZkemVsZVJEODBjTlpQWTQwLVZ6MXQtRzMzSmlpZWEtSTQyTDdtbUhNSDFFQzJldERoeGphT21aeEc3Q2xQRzZmS3NZVDN1em9lbHRZRUtJcGpzWEdEUVlyQkZSOE9MQ282M3J5WVJ6MEQ5bFlCRkdrUV9HSFU0eUZBMl9hRGN5cjEwMUF1c0x0bkdtUkV1NkZQSkZWWGF0RGNEeGQwZW5GWmZ0Y3dfQlNQallMWXFtN2daUVBlXy1sNjRWMTlqRGZ6VkNPOTlRbXdnQ3BmNkViYXBfQ0pmbDFFSnNxZGZITWpaX2xSN1R0aTVsYtIBhAJBVV95cUxNYzY1dkxVZmlWTWpMclgwVXZkemVsZVJEODBjTlpQWTQwLVZ6MXQtRzMzSmlpZWEtSTQyTDdtbUhNSDFFQzJldERoeGphT21aeEc3Q2xQRzZmS3NZVDN1em9lbHRZRUtJcGpzWEdEUVlyQkZSOE9MQ282M3J5WVJ6MEQ5bFlCRkdrUV9HSFU0eUZBMl9hRGN5cjEwMUF1c0x0bkdtUkV1NkZQSkZWWGF0RGNEeGQwZW5GWmZ0Y3dfQlNQallMWXFtN2daUVBlXy1sNjRWMTlqRGZ6VkNPOTlRbXdnQ3BmNkViYXBfQ0pmbDFFSnNxZGZITWpaX2xSN1R0aTVsYg?oc=5",
+      "source": "Boursorama",
+      "published": "20/10/2026 13:19"
     },
     {
       "title": "CAC40 : OVH bondit, Schneider Electric décroche - Le Revenu",
@@ -693,16 +693,16 @@
       "published": "20/10/2026 09:00"
     },
     {
+      "title": "Wall Street ouvre en baisse, l'IA, le pétrole et les résultats pèsent - Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWk9zZTFIQnZYR3FaWTF5RVkzS0NNMngzT2M4Mm9RZW5Rb3F1c2xucUkzcEVtOW1GelM4SlNXNWVCSWdfYktXSmI5RWhkclZTX2U3c1pZN2o3d2RhM2hSX2tELU1wY3czSU5QcU0yVktLS2RwZVVkRTk2RXBfVkJnOWsxc2xOZkx1MUI1cjlHclBHS2ZTMU5LQjVDVkVvMG9DbzRWam54TWt5R3hyd2VxdjJFUllUbkFCckdJUS1IeURXYmxYT0oyeFlqSTZPbm9valhv?oc=5",
+      "source": "Investir Les Echos",
+      "published": "20/10/2026 15:43"
+    },
+    {
       "title": "CAC 40 : La Bourse de Paris attendue en baisse, plombée par les doutes sur la tech et les tensions politiques - Zonebourse",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPajhXdktRRENOREtJOHE3X0h4N2doVEEzQVp1UmtZOEtQWjhhNEM1QTZaVUZUdC1KMVA1eEVfcVBWcTZwSGloeVRuaDVkTERJeEYyT0l0cjljVjZXN0t3bmh6dFIxM1ItTk8tQVBFdkw5Ql81U1BrU3JEYmRTdTFoNGVwRGg1X0dFNEVWMWxpbUpGTkVtNWhZY3k5eXd2VEJoLTViRVd5eHRWQzhqb0E5QjI4UGY1V3hlUzJCT1c1cWI1SFBIMmFUQmtSYkZYTlVxRkZ1Vm5aQjBKemljWXVwSFV5b1VQdWFxOGJ1RE9xVQ?oc=5",
       "source": "Zonebourse",
       "published": "20/10/2026 08:42"
-    },
-    {
-      "title": "Hier à Wall Street - Bourse Direct",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdXBCUTFxQ241QnZKUGVjWHROTEVHZTlsa2xSZDZnVzlVRS1BWHZ6WjNtNG5CNmZhTTlsVGpQWnlDa2xoWE5hMG9jdEVYR3oyMDNQOFBiRkN0QnRGRmFNSkNmSTl3YXBtdm9vdkNrZEdheWNCUUN1UjNTc2xMWEVvWFgtMFZ2MzhHelQ2MDRrRjk0YzAxcW1kMFpYeGpROXZwOEJJeXpEVlhERUxqRUpoS1cwaHNZX2g2OG82d3ZvbTF2THZxQmZpZWFtNjNGMlpUZVFV?oc=5",
-      "source": "Bourse Direct",
-      "published": "20/10/2026 08:30"
     }
   ],
   "weekly": [],
