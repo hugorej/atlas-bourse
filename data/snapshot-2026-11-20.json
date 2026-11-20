@@ -1,0 +1,723 @@
+{
+  "created": "2026-11-20T03:16:28.612426+01:00",
+  "indices": {
+    "S&P 500": {
+      "price": 7175.8301,
+      "pct": -2.02,
+      "date": "2026-11-19",
+      "symbol": "^GSPC",
+      "name": "S&P 500"
+    },
+    "Nasdaq 100": {
+      "price": 26517.0508,
+      "pct": -2.21,
+      "date": "2026-11-19",
+      "symbol": "^NDX",
+      "name": "Nasdaq 100"
+    },
+    "Dow Jones": {
+      "price": 49097.0586,
+      "pct": -2.19,
+      "date": "2026-11-19",
+      "symbol": "^DJI",
+      "name": "Dow Jones"
+    },
+    "Euro Stoxx 50": {
+      "price": 6154.3901,
+      "pct": -0.93,
+      "date": "2026-11-18",
+      "symbol": "^STOXX50E",
+      "name": "Euro Stoxx 50"
+    },
+    "CAC 40": {
+      "price": 8146.8301,
+      "pct": -0.85,
+      "date": "2026-11-18",
+      "symbol": "^FCHI",
+      "name": "CAC 40"
+    },
+    "DAX": {
+      "price": 25736.2402,
+      "pct": -1.19,
+      "date": "2026-11-18",
+      "symbol": "^GDAXI",
+      "name": "DAX"
+    },
+    "Marchés émergents (ETF EEM)": {
+      "price": 57.88,
+      "pct": -0.67,
+      "date": "2026-11-18",
+      "symbol": "EEM",
+      "name": "Marchés émergents (ETF EEM)"
+    },
+    "VIX": {
+      "price": 28.44,
+      "pct": 15.8,
+      "date": "2026-11-19",
+      "symbol": "^VIX",
+      "name": "VIX"
+    },
+    "Taux US 10 ans (proxy ^TNX)": {
+      "price": 5.052,
+      "pct": -0.28,
+      "date": "2026-11-19",
+      "symbol": "^TNX",
+      "name": "Taux US 10 ans (proxy ^TNX)"
+    },
+    "EUR/USD": {
+      "price": 1.0965,
+      "pct": -0.06,
+      "date": "2026-11-20",
+      "symbol": "EURUSD=X",
+      "name": "EUR/USD"
+    },
+    "Pétrole Brent": {
+      "price": 89.98,
+      "pct": -2.14,
+      "date": "2026-11-19",
+      "symbol": "BZ=F",
+      "name": "Pétrole Brent"
+    }
+  },
+  "us": {
+    "Apple": {
+      "price": 352.45,
+      "pct": 0.15,
+      "date": "2026-11-18",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "sector": "Technologie",
+      "region": "US"
+    },
+    "Microsoft": {
+      "price": 508.29,
+      "pct": 0.4,
+      "date": "2026-11-18",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "sector": "Technologie",
+      "region": "US"
+    },
+    "Nvidia": {
+      "price": 150.96,
+      "pct": -2.89,
+      "date": "2026-11-18",
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "sector": "Technologie",
+      "region": "US"
+    },
+    "Alphabet": {
+      "price": 282.44,
+      "pct": 0.8,
+      "date": "2026-11-18",
+      "symbol": "GOOGL",
+      "name": "Alphabet",
+      "sector": "Technologie",
+      "region": "US"
+    },
+    "Amazon": {
+      "price": 267.74,
+      "pct": 3.82,
+      "date": "2026-11-18",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "sector": "Consommation",
+      "region": "US"
+    },
+    "Meta": {
+      "price": 616.38,
+      "pct": -0.4,
+      "date": "2026-11-18",
+      "symbol": "META",
+      "name": "Meta",
+      "sector": "Technologie",
+      "region": "US"
+    },
+    "Tesla": {
+      "price": 383.72,
+      "pct": 0.95,
+      "date": "2026-11-18",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "sector": "Automobile",
+      "region": "US"
+    },
+    "Broadcom": {
+      "price": 354.05,
+      "pct": 3.64,
+      "date": "2026-11-18",
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "sector": "Technologie",
+      "region": "US"
+    },
+    "AMD": {
+      "price": 530.14,
+      "pct": 5.31,
+      "date": "2026-11-18",
+      "symbol": "AMD",
+      "name": "AMD",
+      "sector": "Technologie",
+      "region": "US"
+    },
+    "Intel": {
+      "price": 54.67,
+      "pct": -0.91,
+      "date": "2026-11-18",
+      "symbol": "INTC",
+      "name": "Intel",
+      "sector": "Technologie",
+      "region": "US"
+    },
+    "Netflix": {
+      "price": 59.82,
+      "pct": 0.23,
+      "date": "2026-11-18",
+      "symbol": "NFLX",
+      "name": "Netflix",
+      "sector": "Médias",
+      "region": "US"
+    },
+    "Salesforce": {
+      "price": 190.4,
+      "pct": -2.12,
+      "date": "2026-11-18",
+      "symbol": "CRM",
+      "name": "Salesforce",
+      "sector": "Technologie",
+      "region": "US"
+    },
+    "Oracle": {
+      "price": 113.89,
+      "pct": -0.97,
+      "date": "2026-11-18",
+      "symbol": "ORCL",
+      "name": "Oracle",
+      "sector": "Technologie",
+      "region": "US"
+    },
+    "Palantir": {
+      "price": 156.67,
+      "pct": 0.07,
+      "date": "2026-11-18",
+      "symbol": "PLTR",
+      "name": "Palantir",
+      "sector": "Technologie",
+      "region": "US"
+    },
+    "JPMorgan": {
+      "price": 324.11,
+      "pct": -1.77,
+      "date": "2026-11-18",
+      "symbol": "JPM",
+      "name": "JPMorgan",
+      "sector": "Banques",
+      "region": "US"
+    },
+    "Berkshire Hathaway": {
+      "price": 574.62,
+      "pct": -2.07,
+      "date": "2026-11-18",
+      "symbol": "BRK-B",
+      "name": "Berkshire Hathaway",
+      "sector": "Finance",
+      "region": "US"
+    },
+    "Visa": {
+      "price": 415.22,
+      "pct": -0.37,
+      "date": "2026-11-18",
+      "symbol": "V",
+      "name": "Visa",
+      "sector": "Finance",
+      "region": "US"
+    },
+    "Walmart": {
+      "price": 127.36,
+      "pct": -0.13,
+      "date": "2026-11-18",
+      "symbol": "WMT",
+      "name": "Walmart",
+      "sector": "Consommation",
+      "region": "US"
+    },
+    "Eli Lilly": {
+      "price": 1382.75,
+      "pct": -2.32,
+      "date": "2026-11-18",
+      "symbol": "LLY",
+      "name": "Eli Lilly",
+      "sector": "Santé",
+      "region": "US"
+    },
+    "UnitedHealth": {
+      "price": 349.91,
+      "pct": -10.21,
+      "date": "2026-11-18",
+      "symbol": "UNH",
+      "name": "UnitedHealth",
+      "sector": "Santé",
+      "region": "US"
+    }
+  },
+  "eu": {
+    "ASML": {
+      "price": 1260.8,
+      "pct": 1.94,
+      "date": "2026-11-18",
+      "symbol": "ASML.AS",
+      "name": "ASML",
+      "sector": "Technologie",
+      "region": "EU"
+    },
+    "SAP": {
+      "price": 193.92,
+      "pct": -3.76,
+      "date": "2026-11-18",
+      "symbol": "SAP.DE",
+      "name": "SAP",
+      "sector": "Technologie",
+      "region": "EU"
+    },
+    "Siemens": {
+      "price": 266.0,
+      "pct": -1.41,
+      "date": "2026-11-18",
+      "symbol": "SIE.DE",
+      "name": "Siemens",
+      "sector": "Industrie",
+      "region": "EU"
+    },
+    "LVMH": {
+      "price": 388.1,
+      "pct": -1.25,
+      "date": "2026-11-18",
+      "symbol": "MC.PA",
+      "name": "LVMH",
+      "sector": "Luxe",
+      "region": "EU"
+    },
+    "TotalEnergies": {
+      "price": 79.81,
+      "pct": -2.65,
+      "date": "2026-11-18",
+      "symbol": "TTE.PA",
+      "name": "TotalEnergies",
+      "sector": "Énergie",
+      "region": "EU"
+    },
+    "Schneider Electric": {
+      "price": 238.05,
+      "pct": 0.61,
+      "date": "2026-11-18",
+      "symbol": "SU.PA",
+      "name": "Schneider Electric",
+      "sector": "Industrie",
+      "region": "EU"
+    },
+    "Airbus": {
+      "price": 197.78,
+      "pct": -1.65,
+      "date": "2026-11-18",
+      "symbol": "AIR.PA",
+      "name": "Airbus",
+      "sector": "Industrie",
+      "region": "EU"
+    },
+    "Sanofi": {
+      "price": 86.25,
+      "pct": -0.36,
+      "date": "2026-11-18",
+      "symbol": "SAN.PA",
+      "name": "Sanofi",
+      "sector": "Santé",
+      "region": "EU"
+    },
+    "Allianz": {
+      "price": 461.6,
+      "pct": -1.05,
+      "date": "2026-11-18",
+      "symbol": "ALV.DE",
+      "name": "Allianz",
+      "sector": "Assurance",
+      "region": "EU"
+    },
+    "BNP Paribas": {
+      "price": 92.0,
+      "pct": -1.94,
+      "date": "2026-11-18",
+      "symbol": "BNP.PA",
+      "name": "BNP Paribas",
+      "sector": "Banques",
+      "region": "EU"
+    },
+    "Air Liquide": {
+      "price": 189.74,
+      "pct": -0.63,
+      "date": "2026-11-18",
+      "symbol": "AI.PA",
+      "name": "Air Liquide",
+      "sector": "Industrie",
+      "region": "EU"
+    },
+    "Inditex": {
+      "price": 59.36,
+      "pct": -0.34,
+      "date": "2026-11-18",
+      "symbol": "ITX.MC",
+      "name": "Inditex",
+      "sector": "Consommation",
+      "region": "EU"
+    },
+    "Adyen": {
+      "price": 836.4,
+      "pct": -0.16,
+      "date": "2026-11-18",
+      "symbol": "ADYEN.AS",
+      "name": "Adyen",
+      "sector": "Finance",
+      "region": "EU"
+    },
+    "Infineon": {
+      "price": 49.205,
+      "pct": 1.07,
+      "date": "2026-11-18",
+      "symbol": "IFX.DE",
+      "name": "Infineon",
+      "sector": "Technologie",
+      "region": "EU"
+    },
+    "Deutsche Telekom": {
+      "price": 26.33,
+      "pct": -2.91,
+      "date": "2026-11-18",
+      "symbol": "DTE.DE",
+      "name": "Deutsche Telekom",
+      "sector": "Télécoms",
+      "region": "EU"
+    },
+    "Santander": {
+      "price": 10.64,
+      "pct": -1.46,
+      "date": "2026-11-18",
+      "symbol": "SAN.MC",
+      "name": "Santander",
+      "sector": "Banques",
+      "region": "EU"
+    },
+    "EssilorLuxottica": {
+      "price": 180.8,
+      "pct": 1.12,
+      "date": "2026-11-18",
+      "symbol": "EL.PA",
+      "name": "EssilorLuxottica",
+      "sector": "Santé",
+      "region": "EU"
+    },
+    "Hermès": {
+      "price": 1278.5,
+      "pct": -0.16,
+      "date": "2026-11-18",
+      "symbol": "RMS.PA",
+      "name": "Hermès",
+      "sector": "Luxe",
+      "region": "EU"
+    },
+    "AXA": {
+      "price": 45.72,
+      "pct": -0.85,
+      "date": "2026-11-18",
+      "symbol": "CS.PA",
+      "name": "AXA",
+      "sector": "Assurance",
+      "region": "EU"
+    },
+    "BASF": {
+      "price": 51.19,
+      "pct": -2.01,
+      "date": "2026-11-18",
+      "symbol": "BAS.DE",
+      "name": "BASF",
+      "sector": "Industrie",
+      "region": "EU"
+    }
+  },
+  "us_up": [
+    {
+      "price": 530.14,
+      "pct": 5.31,
+      "date": "2026-11-18",
+      "symbol": "AMD",
+      "name": "AMD",
+      "sector": "Technologie",
+      "region": "US"
+    },
+    {
+      "price": 267.74,
+      "pct": 3.82,
+      "date": "2026-11-18",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "sector": "Consommation",
+      "region": "US"
+    },
+    {
+      "price": 354.05,
+      "pct": 3.64,
+      "date": "2026-11-18",
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "sector": "Technologie",
+      "region": "US"
+    },
+    {
+      "price": 383.72,
+      "pct": 0.95,
+      "date": "2026-11-18",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "sector": "Automobile",
+      "region": "US"
+    },
+    {
+      "price": 282.44,
+      "pct": 0.8,
+      "date": "2026-11-18",
+      "symbol": "GOOGL",
+      "name": "Alphabet",
+      "sector": "Technologie",
+      "region": "US"
+    }
+  ],
+  "us_down": [
+    {
+      "price": 349.91,
+      "pct": -10.21,
+      "date": "2026-11-18",
+      "symbol": "UNH",
+      "name": "UnitedHealth",
+      "sector": "Santé",
+      "region": "US"
+    },
+    {
+      "price": 150.96,
+      "pct": -2.89,
+      "date": "2026-11-18",
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "sector": "Technologie",
+      "region": "US"
+    },
+    {
+      "price": 1382.75,
+      "pct": -2.32,
+      "date": "2026-11-18",
+      "symbol": "LLY",
+      "name": "Eli Lilly",
+      "sector": "Santé",
+      "region": "US"
+    },
+    {
+      "price": 190.4,
+      "pct": -2.12,
+      "date": "2026-11-18",
+      "symbol": "CRM",
+      "name": "Salesforce",
+      "sector": "Technologie",
+      "region": "US"
+    },
+    {
+      "price": 574.62,
+      "pct": -2.07,
+      "date": "2026-11-18",
+      "symbol": "BRK-B",
+      "name": "Berkshire Hathaway",
+      "sector": "Finance",
+      "region": "US"
+    }
+  ],
+  "eu_up": [
+    {
+      "price": 1260.8,
+      "pct": 1.94,
+      "date": "2026-11-18",
+      "symbol": "ASML.AS",
+      "name": "ASML",
+      "sector": "Technologie",
+      "region": "EU"
+    },
+    {
+      "price": 180.8,
+      "pct": 1.12,
+      "date": "2026-11-18",
+      "symbol": "EL.PA",
+      "name": "EssilorLuxottica",
+      "sector": "Santé",
+      "region": "EU"
+    },
+    {
+      "price": 49.205,
+      "pct": 1.07,
+      "date": "2026-11-18",
+      "symbol": "IFX.DE",
+      "name": "Infineon",
+      "sector": "Technologie",
+      "region": "EU"
+    },
+    {
+      "price": 238.05,
+      "pct": 0.61,
+      "date": "2026-11-18",
+      "symbol": "SU.PA",
+      "name": "Schneider Electric",
+      "sector": "Industrie",
+      "region": "EU"
+    },
+    {
+      "price": 836.4,
+      "pct": -0.16,
+      "date": "2026-11-18",
+      "symbol": "ADYEN.AS",
+      "name": "Adyen",
+      "sector": "Finance",
+      "region": "EU"
+    }
+  ],
+  "eu_down": [
+    {
+      "price": 193.92,
+      "pct": -3.76,
+      "date": "2026-11-18",
+      "symbol": "SAP.DE",
+      "name": "SAP",
+      "sector": "Technologie",
+      "region": "EU"
+    },
+    {
+      "price": 26.33,
+      "pct": -2.91,
+      "date": "2026-11-18",
+      "symbol": "DTE.DE",
+      "name": "Deutsche Telekom",
+      "sector": "Télécoms",
+      "region": "EU"
+    },
+    {
+      "price": 79.81,
+      "pct": -2.65,
+      "date": "2026-11-18",
+      "symbol": "TTE.PA",
+      "name": "TotalEnergies",
+      "sector": "Énergie",
+      "region": "EU"
+    },
+    {
+      "price": 51.19,
+      "pct": -2.01,
+      "date": "2026-11-18",
+      "symbol": "BAS.DE",
+      "name": "BASF",
+      "sector": "Industrie",
+      "region": "EU"
+    },
+    {
+      "price": 92.0,
+      "pct": -1.94,
+      "date": "2026-11-18",
+      "symbol": "BNP.PA",
+      "name": "BNP Paribas",
+      "sector": "Banques",
+      "region": "EU"
+    }
+  ],
+  "news": [
+    {
+      "title": "NVIDIA Cours Action NVDA, Cotation Bourse NASDAQ - Boursorama",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FY3p6cDdaTUwxUFkxZjNJcjdVd1YtTnJocUg0eEJhYjBhTUNsemQtbWVaMFh3TVVKRFBuQ203c2ZyNzdDMVpoOXU2YXpTNjg?oc=5",
+      "source": "Boursorama",
+      "published": "20/11/2026 02:02"
+    },
+    {
+      "title": "Cac 40 : Anthropic s'envole de plus de 30% pour ses premiers pas à Wall Street, le CAC 40 cède encore du terrain - BFM Bourse",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOV0lrNmJMVWRaRDY4aEhZOElra2NkVHdYeGRFcXhOcHBaTkgtb2NRSDNSdld2TnhPaWg5U0RTcVQ5a3cyMWZJSXVLVXljOXRkbUItM2o3X1Rjci10SnBWa3Y1WjgtUTdnMjJGSFo1bk1GdGRIaVd6OHF2R25oODRvNGx5OHlwV0RoVGxLZzZBQTNpV0NOY19zMGltUzRFdVhXTzlQTURrZ1pmZDRpUnh1dTQ0WUtLcE0xWUdCVTdLbEhPX0RsRkt0S25EWXJRQ1YtSExFRGxiSXRPLVowYUdUMExIMXA0Vi1vcVg3S0ZpQlZYNEZIMktDYm1RQ2NQdThFRFU3a0Z4YjVQbEk?oc=5",
+      "source": "BFM Bourse",
+      "published": "19/11/2026 17:46"
+    },
+    {
+      "title": "Wall Street dans le rouge, Anthropic ne suffit pas à relancer l'IA - Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOV9hYWpEWkR6OHh4U0pHMENCUjlKWmd3dXJZcGRYY3ppaTlON004QXRib0Vnd05BZ2MyUXdoWXNOdnkydVF5OW5LeE10T1AxV0NkLWNFUUdtQnFyS3lPdGNFQ2RYY0MtOFVvREdBTFBuOWxuUzIzUmNqYWdNQzJnZjFoTkVoX0J3dDdVTTgtZDd3R3pLZllPb29oNFZ2VnJHM21pRlpRUE5SaHZYR2JTQ055ckhKcTduOGN1ZzJhZ1N2dkJxUkk2SFVFRHpZQXNqUVl3?oc=5",
+      "source": "Investir Les Echos",
+      "published": "19/11/2026 22:42"
+    },
+    {
+      "title": "Wall Street en nette baisse, pas d'effet Anthropic pour les indices américains - Yahoo Finance France",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWjM0SEZiTHQwYl9SQ3VTNXhlYjhqOU53NkVHMkI5ODAyZ2Z0QkxCRS1JS01RMzA5d2pGbHNkaTFVaTJlcm5aTUJrZ2dFV2FlRVVXZ3lkc1JVcWFjXzZ3R1BtTThKdE5GUzVLaXh4OTZDYlZvaXhwSkVNQUF5bEU3MXFNNnhBQjFHSVNmemdvTQ?oc=5",
+      "source": "Yahoo Finance France",
+      "published": "19/11/2026 22:34"
+    },
+    {
+      "title": "Le CAC 40 patine en milieu d'après-midi, tiraillé entre les banques et la défense face au retour des craintes sur les taux - Idéal Investisseur",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQbThJR3hsSGxabDV0a3lISUF1Z01uVVVXQVA3T2E0ZVFyZ1l5RjVtUjQ0M19DeEZ4ZVpFUjRrRVhidFJXRjlEQk9jRmpYTGwzam9obTFWaklWckxrV2t2dHZaVUpxa2o4T1Jha1FPd3BmODlULUt5RkxreHVmQmVpUG16UldDLVVmc3lXNEt1V3VpRkxjdldQN0xVMy1HdWhvTlpDdkpiUmZxUFljZHlLdGpDMWI5b3VTbExnUXE2LWxCUkFMVE5MTXZsWVo2bUJ0aTFhamg2Y1hWTHhNT19mQXVsOGJxNUs2aWhKWU5xb25tcG9fZnZOV1BabU1kVWltVktTUjY4WXdlSzJGZlE?oc=5",
+      "source": "Idéal Investisseur",
+      "published": "19/11/2026 16:14"
+    },
+    {
+      "title": "Wall Street déchante malgré les débuts réussis d'Anthropic en Bourse - Bourse Direct",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNNU44SjB2aks5aE5kY2lVWVVsUFhaUjJIOGlZeGZUS3E5R1ZXdE41dDdJWVUwUmV6aFpQUk5QVGpzaTdvWmxtOHBhVGdURkdkY2RVS05qSjR4SFo5c3d5NzFCOW9RT0ZZckRfVEVvQk02dDlGUlZ0Z3dsdElCQ2RJYzY1QkVkVVp0ZlZWQ1FxWnRyU0V1U2Z4THVtRVFicUlrbXEzQk1Tem5oMVp6Z3VJZjFtOFRHVlFCcmVZSUZzUDNodVEtSDZSSXNJdUJvdWRKU21WVkxpSzVNOVd4a1NkRUpFLXJGdmZDYTdpdk5BcTdTQU91ajNmdUs4aGNTdVFHdGg0ajhLeGE0YWRQWnAxSWNNTUhpbHM4SDd1QlowTS1JaXBCZzVGZkpuRWdjNWxwRVE?oc=5",
+      "source": "Bourse Direct",
+      "published": "19/11/2026 22:07"
+    },
+    {
+      "title": "CAC 40 : l'euphorie aura été de courte durée, retrouvez les infos bourse du 19 novembre - MoneyVox",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbFhHOVRuZEtmUnVXcHdxSFhpWU5iNHZlUHU5bUZMYXZKWURVXzRuWGotOU9NM0VfUm04Q3RsSkJyQ1lRcmVkVVFoemVhVktrNFM1eXpleFhrdHNDNmNzYWYzQXlLWTd0WjhaNHdqek5DVkx3dlFXcnlWQzBGM3NZUHFDSm8yLS1xRjAtcEVYMUZxY2JJME9rOVdSZHBFblFwQi0wMmFRUnRlbnhwSjh1TENCY3lHckw5dTdDRWYtaEEyQTJrcENvMVRaVQ?oc=5",
+      "source": "MoneyVox",
+      "published": "19/11/2026 18:17"
+    },
+    {
+      "title": "CARREFOUR Cours Action CA, Cotation Bourse Euronext Paris - Boursorama",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtZU5uaUhjMk1BUEU2R21SZlNmWVV0QV9MZ0hYZWNaR0VaOGNrWkxpMmNXYWtTYlB2OVlMSTMzZUk1UTV6QkpERFRrVnphQ3Bk?oc=5",
+      "source": "Boursorama",
+      "published": "19/11/2026 23:27"
+    },
+    {
+      "title": "Wall Street voit vert, les portes grandes ouvertes pour Anthropic - Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTTI3ZWh4TGp3NlVXd1dWUGhUaFRtY1NnSW81YUcySERCLS1aME94WXBNRTVUUzU0MlFwTGxuVWE3VzZMUExGZFltWlRLZEJHeDdpbG5zeW5VY1otNXg1QzRPb1UtemlWREE1QXBVclloVGNkdFU1T3ZzTG1QSEV4eGszRTFfd3FpR1lmZWlEWlNuX2hTYW1qMXc1ZkV3UEhsWElXQ1dZalZ3bE1HaHpkQTU2dUdkVHdGRzZHR3E5Tm5OLTl2MWNOWFp1N3Z5UTJ0?oc=5",
+      "source": "Investir Les Echos",
+      "published": "19/11/2026 15:37"
+    },
+    {
+      "title": "Cac 40 : En attendant les premiers pas d'Anthropic à New York, le CAC 40 grignote du terrain - BFM Bourse",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaHBqWFh0YldWQ1l3dFduczVCOUFwV3Zla3ZLbDdiQ1hGeElfYTVWZjVDMTh6RVY5b2M1U0dvX2MyOFZSUXNocU5wX05LbUJQUUZxa3V0RnpLOVZ0a01jMkdjc21peTBXX1l0dnBjRzV4bnA5bGcxSXkxWmdjVTVvbWxWTWJiZndjSHBZQzZIbjhqdjZJSUpYLTJlSFlUTEUwLWZFVFFNNm12Z0RQZkRmMXpCNl92empzVnUyeklGNG9zMy14czUzaTJEZ0tuZDdTUVlnUDZSN3FMdnNieVFaUTFGcFFjcUdvVzBMNWw4UFcyQQ?oc=5",
+      "source": "BFM Bourse",
+      "published": "19/11/2026 12:47"
+    },
+    {
+      "title": "Wall Street ouvre en hausse, suspendue aux débuts boursiers d'Anthropic - Yahoo Finance France",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVndMbUdBYnlDUGlpM3pKTTRzTlJoVjJYWS14NTAwTU1zcmUzWGhENlJkV3lxT3E4c1hoNlh2LVU5MzItQVFwbVRUc3lpQnYtQzN1amFfNEwwY2t5SmFxTjBVSzBNcy1xOG5lNjNyUmdVYm9BRUhUYURKalpjcXJDMG5FamdxVU5xU01JUmNfX01vNWc?oc=5",
+      "source": "Yahoo Finance France",
+      "published": "19/11/2026 15:40"
+    },
+    {
+      "title": "RENAULT Cours Action RNO, Cotation Bourse Euronext Paris - Boursorama",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQnhpaFNXNzBFZzZLUHNkdjRKUnJHaTZBQVFOeDhaQTBMd1pFWllJVUgzQkVlNTZXTlNPV2ludU94Z1ZzdVc2Z3oyTEVsNVdMelE?oc=5",
+      "source": "Boursorama",
+      "published": "20/11/2026 01:13"
+    }
+  ],
+  "weekly": [
+    "Comparaison entre les instantanés du 2026-11-16 et du 2026-11-20 (pas nécessairement le rendement officiel de la semaine).",
+    "- S&P 500 : -3.25 % entre les instantanés",
+    "- Nasdaq 100 : -2.50 % entre les instantanés",
+    "- Dow Jones : -4.87 % entre les instantanés",
+    "- Euro Stoxx 50 : -3.06 % entre les instantanés",
+    "- CAC 40 : -2.46 % entre les instantanés",
+    "- DAX : -3.24 % entre les instantanés",
+    "- Marchés émergents (ETF EEM) : -1.72 % entre les instantanés",
+    "- VIX : +24.14 % entre les instantanés",
+    "- Taux US 10 ans (proxy ^TNX) : -1.35 % entre les instantanés",
+    "- EUR/USD : -0.33 % entre les instantanés",
+    "- Pétrole Brent : -1.93 % entre les instantanés"
+  ],
+  "disclaimer": "Prix Yahoo Finance via yfinance, possiblement différés et indicatifs. Classements sur 20 entreprises par région, pas sur l’ensemble du marché."
+}
